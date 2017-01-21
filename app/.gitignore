@@ -31,13 +31,17 @@ Thumbs.db
 
 # Android Studio
 *.iml
-.idea/
+idea/
+*.idea/
+
 
 # Local IDEA workspace
 .idea/workspace.xml
 
 # Gradle cache
-.gradle
+gradle/
+*.gradle
+
 
 #NDK
 obj/
